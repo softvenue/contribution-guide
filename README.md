@@ -10,3 +10,10 @@ Please note we have a code of conduct, please follow it in all your interactions
 - Ensure the PR description clearly describes the problem and solution. Include the relevant issue number if applicable.
 - PR description [WIP] or [work in progress] if the work is incomplete on the file.
 - PR description [DONE] when you complete the work.
+- Open (1 PR = 1 file).
+- Condition to merge (1 commit = 1 file).
+
+<br>
+<br>
+
+`Make changes to Contribution-guide tell as` [here](https://github.com/softvenue/contribution-guide/issues/1)
